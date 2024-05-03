@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-image: url('./images/sw-bg.jpg');
+  background-size: cover;
+}
+
+.karakter-card {
+  padding: 1rem;
+  margin: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 0.5rem;
+}
+
+.karakter-card > p {
+  display: flex;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.karakter-card > p > span.label {
+  flex-basis: 50%;
+}
+
+.karakter-card > p > span.value {
+  flex: 1;
+  font-weight: bold;
+}

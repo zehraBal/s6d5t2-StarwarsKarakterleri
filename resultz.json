@@ -1,0 +1,154 @@
+{
+  "numTotalTestSuites": 1,
+  "numPassedTestSuites": 1,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 13,
+  "numPassedTests": 13,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1714736368439,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Program hatasız bir şekilde çalışıyor",
+          "status": "passed",
+          "title": "Program hatasız bir şekilde çalışıyor",
+          "duration": 51,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " 1.1 App.jsx'de useEffect kullanılmış ve sayfa mount olduğunda karakterler yükleniyor.",
+          "status": "passed",
+          "title": "1.1 App.jsx'de useEffect kullanılmış ve sayfa mount olduğunda karakterler yükleniyor.",
+          "duration": 21,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " 1.2 useEffect'de axios import edilmiş ve kullanılmış.",
+          "status": "passed",
+          "title": "1.2 useEffect'de axios import edilmiş ve kullanılmış.",
+          "duration": 15,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " 1.3 useEffect'de axios get isteği atıyor.",
+          "status": "passed",
+          "title": "1.3 useEffect'de axios get isteği atıyor.",
+          "duration": 22,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " 1.4 Başlangıç değeri boş array olan 2 tane state tanımlanmış",
+          "status": "passed",
+          "title": "1.4 Başlangıç değeri boş array olan 2 tane state tanımlanmış",
+          "duration": 36,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " 2.1 Karakter'in filmleri için .map kullanılmış.",
+          "status": "passed",
+          "title": "2.1 Karakter'in filmleri için .map kullanılmış.",
+          "duration": 13,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " 2.2 Karakter'in film bilgileri .find metodu ile filmler datasından bulunuyor.",
+          "status": "passed",
+          "title": "2.2 Karakter'in film bilgileri .find metodu ile filmler datasından bulunuyor.",
+          "duration": 9,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " 2.3 Karakter'in film bilgileri için Film component'i kullanılmış",
+          "status": "passed",
+          "title": "2.3 Karakter'in film bilgileri için Film component'i kullanılmış",
+          "duration": 12,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " 3.1 Karakter sayfasında styled-components import edilmiş.",
+          "status": "passed",
+          "title": "3.1 Karakter sayfasında styled-components import edilmiş.",
+          "duration": 16,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " 3.2 Karakter sayfasında styled-component olarak KarakterCard oluşturulmuş ve kullanılmış.",
+          "status": "passed",
+          "title": "3.2 Karakter sayfasında styled-component olarak KarakterCard oluşturulmuş ve kullanılmış.",
+          "duration": 7,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " 3.3 Karakter sayfasında styled-component olarak Paragraf component'i p tagi için oluşturulmuş ve kullanılmış.",
+          "status": "passed",
+          "title": "3.3 Karakter sayfasında styled-component olarak Paragraf component'i p tagi için oluşturulmuş ve kullanılmış.",
+          "duration": 8,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " 3.4 Karakter sayfasında .label class'ı için styled-component olarak Label oluşturulmuş ve kullanılmış.",
+          "status": "passed",
+          "title": "3.4 Karakter sayfasında .label class'ı için styled-component olarak Label oluşturulmuş ve kullanılmış.",
+          "duration": 18,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " 3.5 Karakter sayfasında .value class'ı için styled-component olarak Value oluşturulmuş ve kullanılmış.",
+          "status": "passed",
+          "title": "3.5 Karakter sayfasında .value class'ı için styled-component olarak Value oluşturulmuş ve kullanılmış.",
+          "duration": 9,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1714745466920,
+      "endTime": 1714745467159,
+      "status": "passed",
+      "message": "",
+      "name": "/home/projects/vitejs-vite-jo3gn1/src/__tests__/index.test.jsx"
+    }
+  ]
+}
